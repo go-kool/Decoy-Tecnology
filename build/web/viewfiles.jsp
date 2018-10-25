@@ -175,7 +175,7 @@ out.println(e.getMessage());
         <h2>Our Contact Details !</h2>
         <ul>
           <li>MyCloudSite Ltd</li>
-          <li>MG Road</li>
+          <li>M.G. Road</li>
           <li>Vijayawada</li>
           <li>520010</li>
           <li>Tel: 9876543210</li>
